@@ -18,5 +18,10 @@ object ControlFunctions{
   print(f"Distance is $distance adding 2 to it ${distance +2 }")
   val name="Henry"
   println(s"$name travelled $distance distance")
+  //scala.io.StdIn.readLine() readInt()
+  /*while(x>1){
+    x*2
+    x-=1
+  }*/
 
 }
