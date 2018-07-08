@@ -10,7 +10,7 @@ object ControlFunctions{
   }
   val y=20; val x0=2; val y0=3
   val distance={val dx=x-x0;val dy=y-y0;scala.math.sqrt(dx*dx+dy*dy)}
-  //m = n = 1
+  //m = n = 10
   print("Answer")
   println(42)
   println("Answer: "+42)
